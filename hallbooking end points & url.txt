@@ -1,0 +1,8 @@
+gith hub url:https://github.com/gokulsundarr/hallbooking.git
+
+render url:https://hallbooking1-bfa9.onrender.com/
+
+end points:
+ create room:https://hallbooking1-bfa9.onrender.com/createRoom
+ book room:https://hallbooking1-bfa9.onrender.com/bookRoom
+ list of all room:https://hallbooking1-bfa9.onrender.com/listOfRoom
